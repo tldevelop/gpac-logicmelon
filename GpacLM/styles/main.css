@@ -14,7 +14,7 @@ html {
 @font-face {
     font-family: 'Swatchit';
     src: local('Swatchit'), 
-        url(./assets/swatch.ttf) format('truetype');
+        url(../assets/swatch.ttf) format('truetype');
 }
 body {
     margin: 0px;
